@@ -1,5 +1,5 @@
 <?php
 
-print "code version1";
+print "code version2";
 
 ?>
